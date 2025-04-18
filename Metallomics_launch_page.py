@@ -14,8 +14,8 @@ st.image("pao_zn_example_image.jpg", caption="Metalloproteomics Research")
 # Define the options for the dropdown menu
 options = {
     "Select an organism: ": "",
-    "Pseudomonas aeruginosa": "https://metallome.whoi.edu/D_PAO_metallome_oxic_anoxic_streamlit_v1/",
-    "Pelagibacter (SAR11)": "https://metallome.whoi.edu/sar11_metals_proteins_v3/",
+    "Pseudomonas aeruginosa": "https://metallome-test.whoi.edu/D_PAO_metallome_oxic_anoxic_streamlit_v1/",
+    "Pelagibacter (SAR11)": "https://metallome-test.whoi.edu/sar11_metals_proteins_v3/",
     "Pseudoalteromonas - coming soon": "",
     "E. coli - coming soon": "",
     "Trichodesmium - coming soon": "",
